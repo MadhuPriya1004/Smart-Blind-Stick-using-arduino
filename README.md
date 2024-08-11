@@ -18,6 +18,7 @@ This project, presents a Smart Stick designed to aid blind individuals in naviga
 
 **Circuit Diagram**  
 A detailed circuit diagram is included in the repository to guide assembly.
+![Circuit](https://github.com/user-attachments/assets/dcca7911-7fab-4440-9fd5-c5a10412854b)
 
 **Installation and Usage**  
 1. Clone this repository or download the ZIP file.
